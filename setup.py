@@ -6,8 +6,8 @@ with open("README.md", "r", encoding='utf-8') as fh:
  
  
 setuptools.setup(
-    name='semi',  # 模块名称
-    version="1.0",  # 当前版本
+    name='dongsw',  # 模块名称
+    version="1.1",  # 当前版本
     author="dongshanwei",  # 作者
     author_email="350395090@qq.com",  # 作者邮箱
     description="自用",  # 模块简介
