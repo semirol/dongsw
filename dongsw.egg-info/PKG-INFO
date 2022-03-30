@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: dongsw
-Version: 1.1
+Version: 1.1.6
 Summary: 自用
 Home-page: https://github.com/semirol/dsw
 Author: dongshanwei
@@ -13,5 +13,6 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 
-lueluelue
+一个自用的数据处理拓展python包
+
 
